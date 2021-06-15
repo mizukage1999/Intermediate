@@ -1,0 +1,255 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "name": "Air travel",
+      "vietsub": "Du lịch hàng không",
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/1350222.svg"
+    },
+    {
+      "id": 2,
+      "name": "Around town",
+      "vietsub": "Xung quang thị trấn",
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2388359.svg"
+    },
+    {
+      "id": 3,
+      "name": "Beaches",
+      "vietsub": "Bãi biển",
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2664593.svg"
+    },
+    {
+      "id": 4,
+      "name": "Fruit",
+      "vietsub": "Trái cây",
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/3006168.svg" 
+    }
+    
+  ],
+  "vocabulary": [
+    {
+      "key": 1,
+      "nameEn": "duty free",
+      "nameVn": "Miễn thuế",
+      "IPA": "[]",
+      "categorie": 1,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2664728.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/17596.mp3",
+      "exEn1": "Pencil",
+      "exVn1": "Bút chì",
+      "others": [
+        ""
+      ]
+    },
+     {
+      "key": 2,
+      "nameEn": "overhead locker",
+      "nameVn": "tủ đựng đồ trên cao",
+      "IPA": "[ˈəʊvəˌhɛd ˈlɒkə]",
+      "categorie": 1,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2058009.svg",
+      "url": "",
+      "exEn1": "",
+      "exVn1": "",
+      "others": [
+        ""
+      ]
+    },
+     {
+      "key": 3,
+      "nameEn": "departures board",
+      "nameVn": "bảng khởi hành",
+      "IPA": "[dəˈpärCHər bôrd]",
+      "categorie": 1,
+      "image": "https://cdn3.iconfinder.com/data/icons/airport-service-6/2000/departures_board-01-128.png",
+      "url": "",
+      "exEn1": "",
+      "exVn1": "",
+      "others": [
+        ""
+      ]
+    },
+    {
+      "key": 4,
+      "nameEn": "check-in desk",
+      "nameVn": "bàn làm thủ tục",
+      "IPA": "[ˈCHekˌin desk]",
+      "categorie": 1,
+      "image": "https://cdn4.iconfinder.com/data/icons/airport-signs-airplanes-bold-version/100/check-in_travel_front_desk_check-in_counter_departure-128.png",
+      "url": "",
+      "exEn1": "",
+      "exVn1": "",
+      "others": [
+        ""
+      ]
+    },
+    {
+      "key": 5,
+      "nameEn": "roundabout",
+      "nameVn": "bùng binh",
+      "IPA": "[raʊndəbaʊt]",
+      "categorie": 2,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/3477135.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/47280.mp3",
+      "exEn1": "",
+      "exVn1": "",
+      "others": [
+        ""
+      ]
+    },
+     {
+      "key": 6,
+      "nameEn": "streetlight",
+      "nameVn": "đèn đường",
+      "IPA": "[striːtlaɪt]",
+      "categorie": 2,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2205116.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/54071.mp3",
+      "exEn1": "",
+      "exVn1": "",
+      "others": [
+        ""
+      ]
+    },
+    {
+      "key": 7,
+      "nameEn": "crossroads",
+      "nameVn": "ngã tư",
+      "IPA": "[krɒsroʊdz]",
+      "categorie": 2,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/1072373.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/13216.mp3",
+      "exEn1": "",
+      "exVn1": "",
+      "others": [
+        ""
+      ]
+    },
+    {
+      "key": 8,
+      "nameEn": "signpost",
+      "nameVn": "Biển chỉ dẫn",
+      "IPA": "[saɪnpoʊst]",
+      "categorie": 2,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2496241.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/50481.mp3",
+      "exEn1": "",
+      "exVn1": "",
+      "others": [
+        ""
+      ]
+    },
+    {
+      "key": 9,
+      "nameEn": "sunglasses",
+      "nameVn": "Kính râm",
+      "IPA": "[sʌnglɑːsɪz]",
+      "categorie": 3,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/369516.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/54832.mp3",
+      "exEn1": "",
+      "exVn1": "",
+      "others": [
+        ""
+      ]
+    },
+    {
+      "key": 10,
+      "nameEn": "surfboard",
+      "nameVn": "Ván lướt sóng",
+      "IPA": "[sɜːʳfbɔːʳd]",
+      "categorie": 3,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/3152787.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/55035.mp3",
+      "exEn1": "",
+      "exVn1": "",
+      "others": [
+        ""
+      ]
+    },
+    {
+      "key": 11,
+      "nameEn": "driftwood",
+      "nameVn": "gỗ lũa",
+      "IPA": "[drɪftwʊd]",
+      "categorie": 3,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/1059509.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/17236.mp3",
+      "exEn1": "",
+      "exVn1": "",
+      "others": [
+        ""
+      ]
+    },
+    {
+      "key": 12,
+      "nameEn": "shore",
+      "nameVn": "bờ biển",
+      "IPA": "[ʃɔːʳ]",
+      "categorie": 3,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/102422.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/50059.mp3",
+      "exEn1": "",
+      "exVn1": "",
+      "others": [
+        ""
+      ]
+    },
+     {
+      "key": 13,
+      "nameEn": "pomegranate",
+      "nameVn": "trái thạch lựu",
+      "IPA": "[pɒmɪgrænɪt]",
+      "categorie": 4,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/3944202.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/41334.mp3",
+      "exEn1": "",
+      "exVn1": "",
+      "others": [
+        ""
+      ]
+    },
+     {
+      "key": 14,
+      "nameEn": "clementine",
+      "nameVn": "trái quýt",
+      "IPA": "[kleməntaɪn]",
+      "categorie": 4,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/1704398.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/09781.mp3",
+      "exEn1": "",
+      "exVn1": "",
+      "others": [
+        ""
+      ]
+    },
+    {
+      "key": 15,
+      "nameEn": "papaya",
+      "nameVn": "trái đu đủ",
+      "IPA": "[pəpaɪə]",
+      "categorie": 4,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/1791321.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/38613.mp3",
+      "exEn1": "",
+      "exVn1": "",
+      "others": [
+        ""
+      ]
+    },
+    {
+      "key": 16,
+      "nameEn": "nectarine",
+      "nameVn": "quả đào",
+      "IPA": "[nektəriːn]",
+      "categorie": 4,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/1791317.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/35919.mp3",
+      "exEn1": "",
+      "exVn1": "",
+      "others": [
+        ""
+      ]
+    },
+  ]
+}
